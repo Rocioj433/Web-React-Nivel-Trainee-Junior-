@@ -1,2 +1,33 @@
 # Web-React-Nivel-Trainee-Junior-
-Desarrollé una Single Page Application (SPA) en React para la gestión de tareas. La app permite crear, marcar y eliminar tareas, con filtros y persistencia en localStorage. Incluye rutas, componentes reutilizables y diseño responsive. El proyecto está deployado en Vercel y el código se encuentra en GitHub.
+TaskFlow es una aplicación web desarrollada con React que permite al usuario gestionar sus tareas diarias de forma sencilla.
+La app fue construida como ejercicio frontend trainee/jr para practicar hooks, rutas y componentes reutilizables.
+
+Características principales
+
+SPA desarrollada con React + React Router
+
+3 rutas: Home, Tasks, About
+
+CRUD local de tareas con persistencia en localStorage
+
+Uso de hooks:
+
+useState y useEffect para la lógica principal
+
+hook personalizado: useLocalStorage
+
+Un componente reutilizable (<Button /> y <TaskCard />)
+
+Diseño completamente responsive (mobile first)
+
+Deploy en Vercel
+
+Tecnologías
+
+React
+
+React Router
+
+CSS Modules / Tailwind (a elección)
+
+Vercel
