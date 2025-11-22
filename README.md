@@ -5,12 +5,10 @@ La app fue construida como ejercicio frontend trainee/jr para practicar hooks, r
 Características principales:
 - SPA desarrollada con React + React Router
 - CRUD local de tareas con persistencia en localStorage
-Uso de hooks:
-useState y useEffect para la lógica principal
-hook personalizado: useLocalStorage
-Un componente reutilizable
-Diseño completamente responsive (mobile first)
-Deploy en Vercel
+- useState y useEffect para la lógica principal
+- Un componente reutilizable
+- Diseño completamente responsive (mobile first)
+- Deploy en Vercel
 
 Tecnologías:
 
