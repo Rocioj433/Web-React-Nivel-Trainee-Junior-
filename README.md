@@ -14,4 +14,5 @@ Tecnologías:
 
 - React
 - React Router
-- CSS Modules / Tailwind (a elección)Vercel
+- CSS Modules
+- Vercel
